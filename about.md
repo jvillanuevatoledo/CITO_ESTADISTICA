@@ -8,6 +8,8 @@ permalink: /about/
 
 Apasionado de la citometría de flujo y la bioinformática. En este blog comparto conceptos de matemáticas y estadística aplicados al análisis de datos de citometría.  
 
+---
+
 ## 📫 Contáctame
 <p align="center">
   <a href="mailto:jvillanuevatoledo@gmail.com" target="_blank">
