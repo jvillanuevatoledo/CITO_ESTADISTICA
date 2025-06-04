@@ -1,4 +1,4 @@
-# 📊 Blog de Matemáticas y Estadística en Citometría de Flujo
+# 📊 Blog de Estadísticas Citométricas
 
 Este repositorio alberga el código fuente y las entradas de un **blog dedicado a explicar conceptos matemáticos y estadísticos aplicados a la citometría de flujo**. Aquí encontrarás análisis teóricos, ejemplos prácticos en R y Python, y recursos para profundizar en el procesamiento y visualización de datos de citometría.
 
