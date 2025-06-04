@@ -20,7 +20,7 @@ Este repositorio alberga el código fuente y las entradas de un **blog dedicado 
 
 El objetivo de este blog es:
 
-- **Introducir y reforzar** los fundamentos matemáticos (álgebra lineal, teoría de probabilidades, optimización) que subyacen en el análisis de datos de citometría de flujo.  
+- **Introducir y reforzar** los fundamentos matemáticos que subyacen en el análisis de datos de citometría de flujo.  
 - **Mostrar técnicas estadísticas** (distribuciones, pruebas de hipótesis, análisis multivariado, clustering) aplicadas a conjuntos de datos de citometría.  
 - **Proporcionar ejemplos prácticos** de implementación en R y Python para procesamiento de archivos FCS, limpieza de datos, análisis de población celular y visualización.  
 - **Servir como recurso educativo** para investigadores, bioinformáticos y estudiantes que deseen profundizar en la parte cuantitativa de la citometría.
