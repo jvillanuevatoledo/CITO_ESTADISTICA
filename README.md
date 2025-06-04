@@ -22,7 +22,7 @@ El objetivo de este blog es:
 
 - **Introducir y reforzar** los fundamentos matemáticos que subyacen en el análisis de datos de citometría de flujo.  
 - **Mostrar técnicas estadísticas** (distribuciones, pruebas de hipótesis, análisis multivariado, clustering) aplicadas a conjuntos de datos de citometría.  
-- **Proporcionar ejemplos prácticos** de implementación en R y Python para procesamiento de archivos FCS, limpieza de datos, análisis de población celular y visualización.  
+- **Ofrecer ejemplos prácticos** que ilustren de forma clara los conceptos estadísticos aplicados a la citometríade flujo.  
 - **Servir como recurso educativo** para investigadores, bioinformáticos y estudiantes que deseen profundizar en la parte cuantitativa de la citometría.
 
 ---
