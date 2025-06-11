@@ -19,5 +19,3 @@ Bienvenido a la biblioteca de podcasts del proyecto. Aquí encontrarás audios r
 **Nota:** Si los controles de audio no aparecen, puedes descargar los archivos directamente desde los enlaces anteriores.
 
 ---
-
-¿Deseas agregar descripciones, episodios adicionales o una tabla? ¡Avísame si necesitas algo más!
