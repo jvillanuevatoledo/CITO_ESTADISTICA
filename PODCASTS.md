@@ -19,3 +19,7 @@ Bienvenido a la biblioteca de podcasts del proyecto. Aquí encontrarás audios r
 **Nota:** Si los controles de audio no aparecen, puedes descargar los archivos directamente desde los enlaces anteriores.
 
 ---
+
+<p align="center">
+  <sub>Creado con ❤️ por <a href="https://github.com/jvillanuevatoledo">Jairo Villanueva</a></sub>
+</p>
